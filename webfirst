@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mis Redes Sociales</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: white;
+      text-align: center;
+      padding: 40px;
+    }
+    a {
+      display: block;
+      margin: 15px;
+      font-size: 18px;
+      color: #00bfff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌐 Conecta conmigo</h1>
+  <a href="https://instagram.com/tuperfil" target="_blank">Instagram</a>
+  <a href="https://youtube.com/tuperfil" target="_blank">YouTube</a>
+  <a href="https://open.spotify.com/artist/tuperfil" target="_blank">Spotify</a>
+  <a href="https://facebook.com/tuperfil" target="_blank">Facebook</a>
+</body>
+</html>
